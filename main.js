@@ -49,6 +49,5 @@ function myFunction(responseArr) {
 }
 
 console.log ("End");
-console.log ("End");
 
 
